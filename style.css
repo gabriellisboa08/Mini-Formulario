@@ -1,0 +1,12 @@
+body{
+    background-color:  rgb(54, 156, 240);
+    text-align: center;
+}p#p1{
+    background-color: white;
+    box-shadow: 3px 3px 6px rgba(0, 0, 0, 0.363);
+    margin: 3px ;
+    width: 220px;
+    border-radius: 3px;
+    
+}
+
